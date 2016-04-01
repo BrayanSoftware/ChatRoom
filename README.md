@@ -1,4 +1,3 @@
-Chat Room
 Java Based Chat Room Server with Socket Programming
 
 This application satisfies folowing requirements.
